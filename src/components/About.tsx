@@ -24,7 +24,7 @@ const About = () => {
       icon: <Lightbulb size={24} />,
       title: "Consulting",
       description:
-        "Providing expert advice on digital strategy and technology implementation.",
+        "Offering specialized guidance on digital strategy and the implementation of cutting-edge technologies.",
     },
   ];
 
