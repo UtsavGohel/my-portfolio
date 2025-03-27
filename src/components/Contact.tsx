@@ -63,7 +63,7 @@ const Contact = () => {
     {
       icon: <MapPin size={24} />,
       title: "Location",
-      content: "San Francisco, CA",
+      content: "GJ, INDIA",
       link: "https://maps.google.com",
     },
   ];
